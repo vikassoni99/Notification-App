@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NotificationEx</string>
+    <string name="btn_cancel">CANCEL ME !</string>
+    <string name="btn_update">UPDATE ME !</string>
+    <string name="btn_notify">NOTIFY ME !</string>
+</resources>
